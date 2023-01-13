@@ -1,4 +1,4 @@
-# Filament Export
+# Filament Export - Spanish translation
 
 [![Latest Stable Version](http://poser.pugx.org/alperenersoy/filament-export/v)](https://packagist.org/packages/alperenersoy/filament-export) [![Total Downloads](http://poser.pugx.org/alperenersoy/filament-export/downloads)](https://packagist.org/packages/alperenersoy/filament-export) [![License](http://poser.pugx.org/alperenersoy/filament-export/license)](https://packagist.org/packages/alperenersoy/filament-export)
 
@@ -19,7 +19,7 @@ This package provides a bulk action and header action to export your filament ta
 ## Installation
 
 ```bash
-composer require alperenersoy/filament-export
+composer require cswni/filament-export
 ```
 
 ## Using
