@@ -1,5 +1,5 @@
 {
-    "name": "alperenersoy/filament-export",
+    "name": "cswni/filament-export",
     "description": "Customizable export and print functionality for Filament Admin Panel",
     "autoload": {
         "psr-4": {
